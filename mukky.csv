@@ -1,0 +1,12 @@
+id,product,sales,quantity,city
+1,Shirt,1500,3,Lagos
+2,Shoes,2200,1,Abuja
+3,Bag,1800,2,Ibadan
+4,Watch,2500,1,Lagos
+5,Cap,1200,4,Kano
+6,Shirt,1700,2,Abuja
+7,Shoes,2000,1,Port Harcourt
+8,Bag,1600,3,Lagos
+9,Watch,3000,1,Abuja
+10,Cap,1100,5,Ibadan
+

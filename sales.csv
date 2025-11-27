@@ -1,0 +1,6 @@
+CustomerID,FirstName,LastName,Country,Gender,Age,TotalPurchase,LastPurchaseDate,Quantity,Sales,Order Group
+1,James,Okoro,Nigeria,Male,32,420.5,2025-10-15,3,1261.5,Multiple Order
+2,Ada,Umeh,Ghana,Female,27,380.0,2025-09-23,4,1520.0,Multiple Order
+3,John,Doe,Kenya,Male,41,1020.75,2025-11-01,1,1020.75,Single Quantity
+4,Mary,Adeyemi,Nigeria,Female,35,650.2,2025-10-28,5,3251.0,Multiple Order
+5,Samuel,Mutiso,Kenya,Male,29,295.4,2025-08-11,6,1772.3999999999999,Multiple Order

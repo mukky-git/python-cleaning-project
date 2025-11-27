@@ -1,0 +1,295 @@
+CustomerID,Name,Email,Date,Amount,Country
+73,Jennifer    Ade,jennifer17@gmail.com,2021-06-26,196.06,Kenya
+151,Musa Doe,musa43@gmail.com,2021-09-28,381.38,Ghana
+85,Aisha Ali,aisha33@company.ng,2023-04-01,349.69,Ghana
+26,Aisha Otto,aisha56@yahoo.com,2023-05-02,272.15,Kenya
+41,Samuelsmith,samuelsmith63@company.ng,2022-11-07,127.35,Kenya
+158,Mike Mensah,mike24@gmail.com,2022-01-07,421.88,Nigeria
+53,Grace  Oladipo,grace52@hotmail.com,2023-08-14,250.85,Ghana
+175,Musty John,musty43@mail.com,2021-04-20,370.99,Ghana
+74,Peace Khan,peace2@hotmail.com,2024-01-28,110.87,Ghana
+127,John   Ali,john59@company.ng,2021-06-03,458.57,Ghana
+43,Samuel Smith,samuel79@mail.com,2022-09-26,313.06,Kenya
+57,Jennifer   Amusa,jennifer76@yahoo.com,2024-11-12,361.92,Kenya
+101,Mikejohn,mikejohn61@yahoo.com,2023-05-05,56.62,Nigeria
+22,Peace   Amusa,peace6@company.ng,2022-07-10,510.42,Nigeria
+43,Jenniferoladipo,jenniferoladipo91@hotmail.com,2022-02-05,226.05,Ghana
+158,Grace   Rahman,grace11@company.ng,2024-12-01,434.94,Kenya
+29,Mary  Mensah,mary77@mail.com,2021-01-24,264.88,Ghana
+79,Jane  Ade,jane92@yahoo.com,2023-04-26,371.07,Ghana
+139,Samuelali,samuelali62@company.ng,2021-12-30,423.31,Ghana
+99,Peaceotto,peaceotto45@mail.com,2024-08-26,166.57,Nigeria
+34,Jennifer Otto,jennifer86@yahoo.com,2021-07-11,92.96,Nigeria
+166,Samuel  Otto,samuelotto23@yahoo.com,2022-11-03,360.61,south africa
+126,Mary Okoro,mary69@yahoo.com,2023-12-10,422.03,Nigeria
+153,John   Mensah,john68@hotmail.com,2023-02-05,877.91,Nigeria
+119,Aisharahman,aisharahman78@yahoo.com,2024-02-10,255.15,Kenya
+122,Samuelokoro,samuelokoro74@company.ng,2021-12-21,424.08,Ghana
+161,Mikeamusa,mikeamusa41@company.ng,2024-01-07,271.15,Kenya
+72,Musty   Oladipo,musty93@yahoo.com,2024-12-28,423.38,south africa
+179,Danielali,danielali92@company.ng,2024-08-21,399.32,Nigeria
+50,Johnotto,johnotto91@mail.com,2022-01-18,193.85,Nigeria
+117,Marykhan,marykhan93@hotmailcom,2021-05-30,288.83,Ghana
+137,Samuel  Ade,samuel29@company.ng,2021-07-03,528.45,Nigeria
+132,Abdulkhan,abdulkhan7@hotmail.com,2023-03-31,222.26,Kenya
+92,Mary   Ali,mary12@hotmail.com,2022-10-27,112.83,Ghana
+158,Abdul  Ade,abdul98@yahoo.com,2023-10-16,241.18,Ghana
+39,Peacekhan,peacekhan42@mail.com,2023-04-22,230.9,Kenya
+11,Samuel John,samuel46@gmail.com,2021-11-13,347.14,Nigeria
+10,Daniel Khan,daniel66@hotmail.com,2021-04-22,353.67,Nigeria
+124,Mike  Smith,mike69@hotmail.com,2022-01-03,418.65,uganda
+132,Rahmondoe,rahmondoe81@mail.com,2022-08-13,5096.6,south africa
+109,Musaali,musaali60@yahoo.com,2023-06-26,316.64,Kenya
+151,Daniel   John,daniel37@gmail.com,2022-03-15,171.43,Nigeria
+73,Peace  Mensah,peace42@hotmail.com,2024-01-29,564.82,Kenya
+155,Johnoladipo,johnoladipo70@mailcom,2023-01-25,317.6,Nigeria
+83,Musa   John,musajohn11@yahoo.com,2023-05-07,128.55,Ghana
+109,Jennifer   John,jennifer72@company.ng,2022-09-21,306.84,Ghana
+1,Jenniferjohn,jenniferjohn31@hotmail.com,2023-09-23,415.12,Nigeria
+53,Samueldoe,samueldoe6@hotmail.com,2021-04-05,427.44,uganda
+70,Peace  Khan,peace45@mail.com,2023-03-02,313.76,Nigeria
+15,Danielamusa,danielamusa43@yahoo.com,2022-01-26,345.23,south africa
+91,Gracemensah,gracemensah37@company.ng,2022-11-22,249.82,Kenya
+81,Grace  Rahman,grace9@yahoo.com,2022-03-13,114.46,Ghana
+91,Jennifer   Amusa,jennifer47@mail.com,2024-05-29,224.74,Ghana
+160,Abdul  Oladipo,abdul83@company.ng,2022-11-20,372.37,uganda
+73,Samuel   Khan,samuel59@yahoo.com,2021-07-08,3.77,uganda
+59,Samuel Khan,samuelkhan20@mailcom,2024-09-04,334.84,Ghana
+116,Jane  Okoro,janeokoro71@hotmail.com,2021-10-15,384.12,Ghana
+133,Daniel Otto,daniel20@mail.com,2024-08-10,308.73,Kenya
+19,Jennifer   Ade,jennifer3@hotmailcom,2021-10-05,252.71,uganda
+1,Mustymensah,mustymensah55@company.ng,2024-04-21,190.45,Ghana
+38,Jane  Otto,jane34@hotmail.com,2024-02-13,153.8,Nigeria
+147,Danielali,danielali9@yahoo.com,2023-10-01,215.06,Kenya
+121,Johnrahman,johnrahman48@mail.com,2023-02-09,12.18,Nigeria
+96,Peace Otto,peace35@gmail.com,2022-05-28,454.87,Kenya
+96,Jenniferjohn,jenniferjohn63@hotmail.com,2024-03-27,181.12,Nigeria
+30,Aishajohn,aishajohn37@companyng,2023-02-20,159.33,uganda
+38,Mary   Doe,mary58@mailcom,2021-03-11,1.86,south africa
+49,Samuel   Amusa,samuel64@yahoo.com,2021-01-25,378.29,Nigeria
+110,Mikeokoro,mikeokoro78@hotmail.com,2024-12-29,228.12,Ghana
+126,Mary Khan,mary98@gmail.com,2021-11-06,412.79,Ghana
+76,Abdulali,abdulali98@company.ng,2024-01-08,536.88,Nigeria
+49,Mary  Khan,mary52@company.ng,2022-08-29,266.48,Ghana
+42,Samuel Okoro,samuel51@mail.com,2022-05-13,577.84,Ghana
+146,Samuel Amusa,samuel84@company.ng,2021-12-14,310.13,south africa
+87,Jane Smith,jane90@mail.com,2024-08-28,233.99,Ghana
+102,Samuel Ade,samuel83@yahoo.com,2021-09-15,253.62,south africa
+140,Mikeali,mikeali2@gmail.com,2023-04-11,344.55,Ghana
+35,Aisha Amusa,aisha32@yahoo.com,2023-03-16,496.07,Ghana
+30,Abdul      Rahman,abdul58@company.ng,2021-06-18,77.24,Ghana
+105,Peace Okoro,peace27@company.ng,2021-08-03,619.96,Ghana
+175,Samuel Ali,samuel46@gmail.com,2022-05-04,377.26,Nigeria
+110,Mike Okoro,mikeokoro88@company.ng,2023-05-15,417.27,Ghana
+71,Mary   Mensah,mary75@company.ng,2024-02-29,445.3,Ghana
+97,Abdul  Ali,abdul20@mail.com,2023-12-25,401.94,Nigeria
+66,Samuel  John,samuel91@company.ng,2023-03-25,450.53,Ghana
+73,Abdul   Smith,abdul13@mail.com,2022-02-21,124.7,Nigeria
+69,Jennifer  Doe,jennifer70@hotmail.com,2023-04-03,341.5,south africa
+24,Mike   Oladipo,mike46@gmail.com,2022-04-22,490.04,Kenya
+58,John  Mensah,john45@hotmail.com,2021-02-26,88.15,Nigeria
+36,Aishaokoro,aishaokoro36@yahoo.com,2022-08-07,101.93,Nigeria
+78,Jane  Doe,jane64@gmail.com,2021-10-22,267.05,Ghana
+72,Peace Khan,peace88@gmail.com,2022-05-12,491.65,Nigeria
+164,Musty   Ade,unknown@example.com,2024-06-29,353.55,Kenya
+174,Jennifer   Doe,jenniferdoe93@hotmail.com,2021-06-16,534.7,Ghana
+3,Mike   Khan,mike15@hotmail.com,2022-08-03,215.66,Nigeria
+25,Mike   Amusa,mike8@gmail.com,2022-01-25,230.49,Ghana
+143,Abdul Khan,abdul60@hotmail.com,2021-10-19,317.03,Ghana
+122,Rahmon Mensah,rahmon72@companyng,2024-10-23,119.96,uganda
+122,Rahmon   Doe,rahmon93@hotmail.com,2024-04-09,300.77,Ghana
+57,Grace Ali,grace45@hotmail.com,2021-10-27,203.23,Kenya
+88,Musa   John,musa35@mail.com,2023-12-03,4575.2,uganda
+31,Daniel  Amusa,daniel76@hotmail.com,2021-07-23,100.77,Nigeria
+24,Mike   Amusa,unknown@example.com,2021-06-04,148.08,Kenya
+40,Musty Amusa,musty5@hotmail.com,2023-01-13,174.12,Nigeria
+63,Peacejohn,unknown@example.com,2024-01-15,131.95,Ghana
+46,Mary   Mensah,mary23@company.ng,2022-05-09,7.19,Nigeria
+147,Abdulotto,abdulotto80@yahoo.com,2021-08-05,354.25,Nigeria
+9,Aishamensah,aishamensah27@yahoo.com,2021-04-10,309.03,Nigeria
+161,Peacesmith,peacesmith42@company.ng,2023-06-25,354.21,Kenya
+11,Gracekhan,gracekhan54@gmail.com,2023-07-31,297.98,Nigeria
+49,Grace  Otto,grace65@hotmail.com,2022-08-25,407.1,Kenya
+40,Janeali,janeali58@yahoo.com,2024-06-11,398.48,Nigeria
+38,Aisha  Otto,aisha81@yahoo.com,2024-02-26,429.86,uganda
+111,Marymensah,marymensah11@gmail.com,2023-09-03,628.57,uganda
+46,Samueljohn,samueljohn21@hotmail.com,2022-04-01,163.8,south africa
+153,John  Khan,john28@yahoo.com,2022-07-20,262.11,Kenya
+10,Mary   Otto,mary18@company.ng,2022-05-09,339.16,uganda
+177,Graceotto,graceotto8@yahoo.com,2024-12-12,334.12,Ghana
+53,Daniel   Smith,daniel9@hotmail.com,2024-08-20,371.04,Kenya
+67,Samuel  Smith,samuel26@mail.com,2023-07-01,349.31,Ghana
+153,Mike Rahman,mike99@gmail.com,2021-09-04,544.86,Ghana
+27,Mary  Okoro,mary4@gmail.com,2023-02-28,151.42,south africa
+14,Samuel Khan,samuel20@yahoo.com,2024-03-05,85.48,Kenya
+98,Abdul   Amusa,abdul80@yahoo.com,2024-07-21,377.07,south africa
+81,Abdul John,abdul87@mail.com,2022-05-10,200.73,south africa
+112,Samuel John,unknown@example.com,2024-02-21,215.97,Ghana
+39,Mary Oladipo,mary69@hotmail.com,2024-03-17,518.03,Ghana
+88,Maryokoro,maryokoro54@mail.com,2021-05-01,167.42,Kenya
+169,Rahmonali,rahmonali9@yahoo.com,2023-01-10,58.09,Nigeria
+98,Grace Smith,grace97@gmail.com,2024-03-29,175.65,uganda
+173,Peace   Ali,peace10@mail.com,2024-11-17,67.4,Nigeria
+20,Marydoe,marydoe37@yahoo.com,2022-06-26,329.53,Kenya
+116,Samuelotto,samuelotto3@company.ng,2021-01-17,618.32,Kenya
+69,Samuel Amusa,samuel98@mail.com,2021-05-15,708.03,Ghana
+113,Peacedoe,peacedoe21@hotmail.com,2021-06-18,338.98,south africa
+36,Daniel  Rahman,daniel99@company.ng,2024-09-14,669.49,Kenya
+10,Abdul  John,abduljohn44@gmail.com,2024-11-26,260.3,Nigeria
+67,Danieloladipo,danieloladipo32@company.ng,2023-09-28,471.42,Nigeria
+96,Aisha  Doe,aisha65@mail.com,2022-09-28,211.6,Kenya
+17,Samuel  Smith,samuel68@mail.com,2024-12-07,277.23,uganda
+97,Musa Rahman,musa89@company.ng,2023-04-26,437.68,Ghana
+175,Abdul   Khan,abdul44@yahoo.com,2022-10-10,289.08,Nigeria
+128,Samuel  Ade,samuel32@yahoo.com,2021-06-10,427.87,Kenya
+93,Jennifer Ade,jenniferade13@yahoo.com,2022-12-29,397.15,Kenya
+151,Samuel  Mensah,samuel28@gmail.com,2023-09-08,294.79,Nigeria
+2,Peace  Rahman,peace98@mail.com,2023-05-29,172.98,Nigeria
+91,Samuel Amusa,samuel39@yahoo.com,2021-03-06,163.59,Kenya
+22,Musasmith,musasmith19@company.ng,2022-06-26,192.7,south africa
+23,Maryade,maryade40@company.ng,2022-12-22,301.53,Nigeria
+28,Mary Rahman,mary57@hotmail.com,2021-06-10,314.95,Ghana
+125,Musa  Ade,musa99@company.ng,2024-06-19,423.29,Ghana
+58,Mike Okoro,mike80@gmail.com,2022-03-23,209.74,Ghana
+95,Musty   Khan,musty24@company.ng,2022-09-20,178.73,Nigeria
+143,Samuelkhan,samuelkhan90@mail.com,2023-03-04,186.19,Nigeria
+21,Daniel      Smith,daniel26@company.ng,2021-08-27,338.63,Nigeria
+60,Musa   Ali,musa42@hotmail.com,2023-08-03,346.09,Ghana
+135,Rahmon John,rahmon44@gmail.com,2024-08-02,584.52,Ghana
+142,Maryjohn,maryjohn24@yahoocom,2022-02-09,162.09,Ghana
+30,Mike   John,mike25@yahoo.com,2021-03-14,206.6,Nigeria
+57,Grace Okoro,grace37@company.ng,2024-08-04,621.59,uganda
+125,Jennifersmith,jennifersmith15@mail.com,2021-04-04,2892.0,Kenya
+146,John  Oladipo,john74@gmail.com,2021-08-21,437.31,uganda
+73,Jenniferkhan,jenniferkhan74@gmail.com,2022-10-09,332.47,Nigeria
+16,Rahmon  Ade,rahmon75@gmail.com,2022-02-09,418.06,Ghana
+170,Samuel  Smith,samuel8@company.ng,2023-12-24,336.29,Ghana
+124,Samuel   Otto,samuel23@hotmail.com,2021-04-22,331.33,Ghana
+165,Abdulali,abdulali42@mail.com,2023-05-14,256.25,Nigeria
+105,Samuel   Khan,unknown@example.com,2021-06-29,288.43,south africa
+56,Abdulade,abdulade17@company.ng,2021-04-10,327.7,Kenya
+165,Rahmonamusa,rahmonamusa29@hotmail.com,2023-10-04,160.96,Ghana
+149,Samuel  Oladipo,samuel89@companyng,2023-05-02,140.65,Kenya
+175,John  Smith,john78@hotmail.com,2023-05-18,139.37,Nigeria
+156,Aisha  John,aisha81@yahoocom,2021-10-03,198.46,Ghana
+74,Janeamusa,janeamusa16@company.ng,2024-02-17,344.42,Nigeria
+27,Samuel   Khan,samuel49@yahoo.com,2023-11-25,229.21,Nigeria
+8,Mary  Ade,mary91@hotmail.com,2021-09-11,393.85,Kenya
+163,Rahmon Smith,rahmon21@gmail.com,2024-02-01,282.65,Ghana
+164,Jennifer  Ali,jennifer67@gmail.com,2022-10-12,314.56,Nigeria
+50,John  Oladipo,john21@gmail.com,2023-04-11,395.09,Nigeria
+143,Mary   Smith,mary46@gmail.com,2024-02-25,251.69,Kenya
+55,Janeamusa,janeamusa50@mail.com,2024-03-25,356.35,Ghana
+41,Samuel Khan,samuel60@gmail.com,2022-08-21,78.22,Kenya
+163,Aishaokoro,aishaokoro59@hotmailcom,2021-07-10,58.88,Ghana
+176,Samuel Oladipo,samuel61@gmail.com,2024-01-23,413.85,Nigeria
+164,Jane   Doe,jane12@company.ng,2024-05-17,374.51,Kenya
+80,Samuel   Smith,samuel1@yahoo.com,2024-01-19,114.33,Kenya
+110,Jennifer   John,jennifer79@yahoo.com,2022-04-01,388.25,Kenya
+71,Samuelokoro,samuelokoro38@yahoo.com,2024-05-09,236.9,Nigeria
+11,Rahmon   Rahman,rahmon98@gmail.com,2022-05-11,357.8,Nigeria
+54,Samuel  Khan,unknown@example.com,2024-08-04,84.62,Ghana
+127,Mary   Otto,mary43@gmail.com,2021-02-10,275.81,Kenya
+44,Mike Rahman,mike63@mail.com,2023-01-30,351.17,south africa
+98,Mary    Mensah,mary54@hotmail.com,2023-08-24,264.81,Kenya
+4,Jenniferrahman,jenniferrahman62@hotmail.com,2024-11-06,6.05,south africa
+18,Jane Okoro,jane72@yahoo.com,2023-04-22,134.05,Nigeria
+23,Musty Amusa,musty16@yahoocom,2022-12-12,351.97,uganda
+171,Musa  Okoro,musa75@hotmailcom,2024-11-15,227.36,Kenya
+158,Rahmon  Rahman,rahmon97@gmail.com,2022-08-19,264.48,Nigeria
+95,Aisha Otto,aisha39@gmail.com,2022-04-19,291.07,Kenya
+114,Aisha  Khan,aisha22@yahoo.com,2021-04-16,230.14,Nigeria
+46,Samuel  Oladipo,samuel78@company.ng,2024-11-19,458.07,Kenya
+28,Grace Khan,grace31@mail.com,2022-11-29,421.93,Nigeria
+138,Samuel  Otto,samuel44@mail.com,2021-09-19,209.9,Ghana
+138,Rahmon   Oladipo,rahmon97@yahoo.com,2021-02-26,327.97,south africa
+55,Mikesmith,mikesmith32@yahoo.com,2024-04-10,264.88,Nigeria
+46,Musty John,musty10@mail.com,2024-10-18,89.72,Ghana
+124,Peace   Amusa,peace58@hotmail.com,2021-02-28,141.34,Nigeria
+125,Aisha Smith,aisha66@gmail.com,2021-08-31,463.34,Kenya
+100,Samuel Ali,samuel8@hotmail.com,2022-04-22,444.51,Nigeria
+54,Jenniferali,jenniferali81@yahoo.com,2022-04-01,44.66,uganda
+70,John  Smith,john14@hotmail.com,2023-02-19,474.47,Nigeria
+139,Rahmondoe,rahmondoe39@yahoo.com,2021-06-28,115.37,Ghana
+74,Jennifer   Rahman,jennifer29@mail.com,2022-07-25,120.57,Ghana
+57,Samuelotto,samuelotto62@hotmail.com,2021-12-26,647.2,south africa
+158,Jennifer  Okoro,jennifer89@hotmail.com,2023-05-17,182.51,Kenya
+43,Samuelkhan,samuelkhan92@yahoo.com,2023-11-26,229.58,south africa
+116,John   Doe,john79@gmail.com,2021-03-26,530.71,Nigeria
+9,Abdul   Doe,abdul97@yahoo.com,2024-06-17,310.47,Nigeria
+24,Samuel  Khan,samuel93@hotmail.com,2021-11-15,503.44,Ghana
+142,Mary  Amusa,mary36@gmail.com,2022-07-02,192.02,Kenya
+64,Samuel  Doe,samuel61@yahoo.com,2021-03-28,72.09,Nigeria
+20,Jennifer Oladipo,jennifer41@hotmail.com,2023-07-17,121.3,Ghana
+155,Samuel Doe,samuel3@company.ng,2021-12-25,325.71,Ghana
+129,Samuel John,samuel99@company.ng,2024-07-22,388.03,Ghana
+119,Aisha Amusa,aisha72@hotmail.com,2022-12-26,268.78,Nigeria
+68,Samuel Mensah,samuel75@gmail.com,2022-06-18,19.91,Ghana
+147,Grace Okoro,grace9@mail.com,2021-06-26,343.96,Ghana
+173,Samuel  Ade,samuel99@company.ng,2024-11-27,12.66,Ghana
+161,Samuel Amusa,samuel51@hotmail.com,2024-06-08,152.77,Ghana
+31,Marykhan,marykhan97@gmail.com,2023-12-26,296.02,Ghana
+87,Rahmon  Mensah,rahmon81@mail.com,2021-03-17,521.68,uganda
+88,Graceali,graceali52@hotmail.com,2022-04-14,375.75,south africa
+85,Grace  Rahman,grace97@company.ng,2024-08-08,385.63,Ghana
+3,Daniel  Khan,daniel71@company.ng,2022-12-06,184.08,south africa
+69,Rahmon Ali,rahmonali57@hotmail.com,2023-10-22,410.77,Nigeria
+100,Musakhan,musakhan83@mail.com,2021-09-23,416.2,Ghana
+85,Peace  Khan,peace18@yahoo.com,2021-10-25,369.32,Ghana
+118,Grace Okoro,grace69@gmail.com,2022-05-16,41.26,Nigeria
+85,Rahmonmensah,rahmonmensah70@mail.com,2022-04-11,351.54,Kenya
+91,John   Doe,john37@mail.com,2023-01-20,80.47,Nigeria
+158,Samuel  Oladipo,samuel89@gmail.com,2024-08-23,209.97,south africa
+59,Peace  Otto,peace79@company.ng,2021-01-11,202.26,uganda
+161,Aisha  Okoro,aisha45@hotmailcom,2022-07-31,342.15,Nigeria
+36,Abdul   Oladipo,abdul81@company.ng,2024-10-09,93.35,Nigeria
+128,Abdulkhan,abdulkhan32@company.ng,2024-12-31,176.9,Nigeria
+58,Musty   Oladipo,musty65@hotmail.com,2024-11-02,402.94,Ghana
+36,Abdul Okoro,abdul26@company.ng,2023-04-20,113.14,Kenya
+2,Samuel  Amusa,samuel93@company.ng,2024-09-29,582.93,uganda
+143,Graceokoro,graceokoro75@hotmail.com,2023-08-24,454.65,Ghana
+151,Samuel  Doe,samuel14@hotmail.com,2021-03-30,279.26,Ghana
+60,Peace   Mensah,peace37@mail.com,2024-04-18,348.61,south africa
+135,Grace Okoro,grace33@hotmail.com,2024-09-07,353.57,Nigeria
+76,Peace Ali,peace6@mail.com,2022-06-07,377.26,Nigeria
+79,Mike   Oladipo,mike43@company.ng,2022-01-30,116.87,south africa
+69,Aisha   Amusa,aisha55@mail.com,2022-09-17,319.61,Kenya
+68,Mikeade,mikeade38@company.ng,2023-12-04,194.69,Kenya
+45,Musa   Ali,musa62@hotmail.com,2023-08-18,391.75,Ghana
+113,John  Ade,john15@gmail.com,2022-08-13,516.19,Nigeria
+21,Musaali,musaali7@company.ng,2022-06-22,202.0,south africa
+173,Rahmonade,rahmonade6@company.ng,2022-06-19,13.01,uganda
+157,Musty Okoro,musty53@company.ng,2024-08-08,376.99,Nigeria
+156,Samuel   Amusa,samuel68@companyng,2023-07-25,242.2,Nigeria
+92,Musa  Mensah,musa94@yahoo.com,2024-03-08,263.19,Ghana
+148,Jane  Khan,jane68@mail.com,2021-08-22,532.49,uganda
+37,Samuelsmith,samuelsmith59@mail.com,2023-07-20,296.86,Ghana
+162,Samuelmensah,samuelmensah62@hotmail.com,2022-06-17,360.75,Nigeria
+163,Rahmon   Smith,rahmon39@gmail.com,2023-03-07,439.69,Ghana
+99,Rahmon Smith,rahmon3@hotmail.com,2024-11-05,242.24,south africa
+52,Rahmon  Mensah,rahmon12@gmail.com,2023-07-28,301.95,Ghana
+137,Jennifer Doe,jennifer54@gmail.com,2022-02-25,332.11,Ghana
+83,Aisha  Khan,aishakhan40@hotmail.com,2021-04-04,72.77,Ghana
+67,Jane   Okoro,jane12@company.ng,2023-06-03,177.63,south africa
+135,Jane Otto,jane58@gmail.com,2024-11-09,446.33,Ghana
+43,Samuel Rahman,samuelrahman32@yahoo.com,2021-11-06,35.54,Kenya
+89,Abdul  Mensah,abdul89@hotmail.com,2023-11-01,282.79,Ghana
+42,Jane  Khan,jane1@mail.com,2024-06-23,366.57,Nigeria
+94,Abdul   Okoro,abdul65@hotmail.com,2021-09-18,266.13,Ghana
+11,Peace  Doe,peace4@mail.com,2022-07-18,473.79,uganda
+22,Danielotto,danielotto49@yahoo.com,2024-09-12,537.9,uganda
+85,Musa Doe,musa20@mail.com,2022-06-09,325.98,Kenya
+140,Samuel  Ade,samuel63@company.ng,2023-07-01,394.44,Ghana
+81,Daniel   John,daniel78@hotmail.com,2022-05-06,146.34,uganda
+164,Daniel  Khan,daniel20@yahoo.com,2024-10-26,337.57,south africa
+153,Mike Okoro,mike6@company.ng,2022-11-11,310.28,Nigeria
+31,Aisha   Doe,aisha81@company.ng,2024-03-06,198.0,Ghana
+135,Abdul  John,abdul79@hotmail.com,2022-02-09,87.69,Nigeria
+141,Daniel   Rahman,daniel47@yahoo.com,2023-10-09,220.54,Kenya
+33,Mike  Mensah,mike63@hotmail.com,2024-04-03,24.91,south africa
+28,Jennifer   Amusa,jennifer15@company.ng,2021-04-01,519.85,south africa
+176,Maryjohn,maryjohn3@mail.com,2024-04-22,71.38,uganda
+39,John Smith,john65@gmail.com,2023-10-12,294.63,Nigeria
+177,Jane   Mensah,jane20@mail.com,2023-08-23,326.19,Ghana
+48,Grace Ali,grace39@mail.com,2022-07-15,329.86,Ghana
+167,Musa   Rahman,musa30@company.ng,2021-12-25,179.66,Ghana
